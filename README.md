@@ -1,4 +1,4 @@
-# Digit_recognition-MNIST_99.28_accuracy
+# Digit_recognition_MNIST_99.28%_accuracy
 Image Processing
 - resize (INTER_LANCZOS4)
 - Dilation
