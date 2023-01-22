@@ -13,4 +13,4 @@ Train
 - Finetuning
 
 Not done yet
-- pseudo labeling inspire from jkop (Ai reality ep.3 traffy fondue)
+- pseudo labeling inspire from Jkop (Ai reality ep.3 traffy fondue)
