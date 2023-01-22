@@ -6,3 +6,8 @@ Image Processing
 - Erose
 
 Train
+- Split Folder 90/10
+- Train
+- add image from validation set that model predict wrong to train set, rotate that image and add to validation set
+- Train
+- Finetuning
